@@ -1,3 +1,11 @@
+# RoadSim
+
+> Lightweight fleet routing simulator in pure Python
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem. Forked from [`toruseo/UXsim`](https://github.com/toruseo/UXsim).
+
+---
+
 # UXsim: Network traffic flow simulator in pure Python
 
 [![PyPi](https://img.shields.io/pypi/v/uxsim.svg)](https://pypi.python.org/pypi/uxsim)
